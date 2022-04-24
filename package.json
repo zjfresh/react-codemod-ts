@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"react": "^18.0.0"
+	},
+	"devDependencies": {
+		"react-codemod": "^5.4.3"
+	}
+}
