@@ -1,4 +1,7 @@
 {
+	"scripts": {
+		"start": "react-codemod manual-bind-to-arrow src"
+	},
 	"dependencies": {
 		"react": "^18.0.0"
 	},
